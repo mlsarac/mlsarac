@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Melisa 👋  
+**Computer Engineering | Embedded Systems & Automotive Software**
 
-<!--
-**mlsarac/mlsarac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4th-year Computer Engineering student focused on **embedded systems**,  
+**automotive communication (CAN, UDS, DBC)** and **Edge-AI for IoT security**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech
+- C, C++, Python  
+- STM32, ARM Cortex-M  
+- CAN, UDS, DBC  
+- NumPy, Pandas, python-can  
+
+---
+
+### 🚀 Projects
+- **CAN-based ECU Simulator** (Python, DBC, CAN)  
+- **20-bit Custom CPU** (Logisim, C)  
+- **Smart IoT Gateway** (Edge-AI, LSTM)
+
+---
+
+### 📫 Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/mlsarac/)
