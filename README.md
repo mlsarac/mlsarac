@@ -1,22 +1,59 @@
-## Hi, I'm Melisa 👋  
-**Computer Engineering | Embedded Systems & Edge AI**
+# 👋 Hi, I'm Melisa Saraç
 
-4th-year Computer Engineering student focused on **embedded systems**,  
-**automotive communication (CAN, UDS, DBC)** and **Edge-AI for IoT security**.
+🎓 Computer Engineering @ Marmara University  
+⚙️ Embedded Systems • IoT • Edge AI  
 
+I build intelligent systems at the intersection of **hardware, software, and data**.
 
-### 🔧 Tech
-- C, C++, Python  
-- STM32, ARM Cortex-M  
-- CAN, UDS, DBC  
-- NumPy, Pandas, python-can  
+---
 
+## 🚀 Focus
 
-### 🚀 Projects
-- **CAN-based ECU Simulator** (Python, DBC, CAN)  
-- **20-bit Custom CPU** (Logisim, C)  
-- **Smart IoT Gateway** (Edge-AI, LSTM)
+- Embedded Software & RTOS  
+- CAN Bus / UDS / Automotive Systems  
+- Edge AI & Anomaly Detection  
+- Digital System Design  
 
+---
 
-### 📫 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/mlsarac/)
+## 🧠 Selected Work
+
+🔹 **Edge AI Intrusion Detection System**  
+LSTM & Autoencoder-based anomaly detection for smart home networks  
+
+🔹 **CAN Bus ECU Simulator**  
+DBC-driven signal generation, real-time message handling & analysis  
+
+🔹 **20-bit CPU Design (Logisim)**  
+Custom processor architecture + assembler in C  
+
+🔹 **Simple Unix Shell (C)**  
+Process management, signals, foreground/background execution  
+
+---
+
+## 🛠️ Stack
+
+**C • Python • Embedded C**  
+STM32 • CAN (python-can, DBC)  
+Machine Learning (LSTM, Autoencoders)  
+Linux • Git • Keil  
+
+---
+
+## 🌱 Currently
+
+- Embedded Linux & RTOS  
+- Advanced ML for Edge Systems  
+- Automotive Software Architectures  
+
+---
+
+## 📫 Connect
+
+🔗 LinkedIn: https://www.linkedin.com/in/mlsarac  
+💻 GitHub: https://github.com/mlsarac  
+
+---
+
+✨ *Building systems that bridge embedded intelligence with real-world impact.*
