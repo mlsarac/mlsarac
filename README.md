@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Melisa Saraç
+# 👋 Hi, I'm Melisa Araç
 
 🎓 Computer Engineering @ Marmara University  
 ⚙️ Embedded Systems • IoT • Edge AI  
