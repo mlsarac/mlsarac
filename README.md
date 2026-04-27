@@ -52,8 +52,4 @@ Linux • Git • Keil
 ## 📫 Connect
 
 🔗 LinkedIn: https://www.linkedin.com/in/mlsarac  
-💻 GitHub: https://github.com/mlsarac  
 
----
-
-✨ *Building systems that bridge embedded intelligence with real-world impact.*
